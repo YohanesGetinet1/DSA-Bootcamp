@@ -24,7 +24,6 @@ Test case - 9474 = 9^4 + 4^4 + 7^4 + 4^4 = 9474
             System.out.println("Armstrong Number");
         else
             System.out.println("Not Armstrong Number");
-        System.out.println(number);
     }
 
 }
